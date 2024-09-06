@@ -23,3 +23,6 @@ for user in nusersl:
     if user in usersl:
         print(f"{user}: username already exits, choose a different user name.")
     else: print(f"{user}: username is available.")
+
+
+    

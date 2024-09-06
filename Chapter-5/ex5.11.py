@@ -14,3 +14,5 @@ for i in ls:
     elif i == 3:
         print(f"{i}rd")
     else: print(f"{i}th")
+
+    
